@@ -1,0 +1,270 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "cohort": 2023
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "cohort": 2024
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.j@example.com",
+      "cohort": 2023
+    },
+    {
+      "id": 4,
+      "name": "Bob Williams",
+      "email": "bob.w@example.com",
+      "cohort": 2024
+    },
+    {
+      "id": 5,
+      "name": "Charlie Brown",
+      "email": "charlie.b@example.com",
+      "cohort": 2025
+    },
+    {
+      "id": 6,
+      "name": "Diana Prince",
+      "email": "diana.p@example.com",
+      "cohort": 2023
+    },
+    {
+      "id": 7,
+      "name": "Ethan Hunt",
+      "email": "ethan.h@example.com",
+      "cohort": 2024
+    },
+    {
+      "id": 8,
+      "name": "Fiona Apple",
+      "email": "fiona.a@example.com",
+      "cohort": 2025
+    },
+    {
+      "id": 9,
+      "name": "George Lucas",
+      "email": "george.l@example.com",
+      "cohort": 2023
+    },
+    {
+      "id": 10,
+      "name": "Hannah Montana",
+      "email": "hannah.m@example.com",
+      "cohort": 2024
+    },
+    {
+      "id": 11,
+      "name": "Ian McKellen",
+      "email": "ian.m@example.com",
+      "cohort": 2025
+    },
+    {
+      "id": 12,
+      "name": "Julia Roberts",
+      "email": "julia.r@example.com",
+      "cohort": 2023
+    },
+    {
+      "id": 13,
+      "name": "Kevin Bacon",
+      "email": "kevin.b@example.com",
+      "cohort": 2024
+    },
+    {
+      "id": 14,
+      "name": "Lara Croft",
+      "email": "lara.c@example.com",
+      "cohort": 2025
+    },
+    {
+      "id": 15,
+      "name": "Michael Scott",
+      "email": "michael.s@example.com",
+      "cohort": 2023
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "body": "This is the content of my first post.",
+      "date": "2024-07-10",
+      "topic_id": 1,
+      "user_id": 1,
+      "likes": 5
+    },
+    {
+      "id": 2,
+      "title": "Thoughts on Technology",
+      "body": "Here are my thoughts on the latest tech trends.",
+      "date": "2024-07-11",
+      "topic_id": 2,
+      "user_id": 2,
+      "likes": 0
+    },
+    {
+      "id": 3,
+      "title": "Cooking Adventures",
+      "body": "I tried a new recipe today and here's how it went.",
+      "date": "2024-07-12",
+      "topic_id": 3,
+      "user_id": 3,
+      "likes": 0
+    },
+    {
+      "id": 4,
+      "title": "Travel Diaries",
+      "body": "My recent trip to Europe was amazing!",
+      "date": "2024-07-13",
+      "topic_id": 4,
+      "user_id": 4,
+      "likes": 5
+    },
+    {
+      "id": 5,
+      "title": "Movie Review",
+      "body": "Just watched the latest blockbuster. Here's my take.",
+      "date": "2024-07-14",
+      "topic_id": 5,
+      "user_id": 5,
+      "likes": 0
+    },
+    {
+      "id": 6,
+      "title": "Fitness Tips",
+      "body": "How I stay in shape with a busy schedule.",
+      "date": "2024-07-15",
+      "topic_id": 6,
+      "user_id": 6,
+      "likes": 0
+    },
+    {
+      "id": 7,
+      "title": "Book Recommendations",
+      "body": "My top 5 reads of the year so far.",
+      "date": "2024-07-16",
+      "topic_id": 7,
+      "user_id": 7,
+      "likes": 3
+    },
+    {
+      "id": 8,
+      "title": "Gardening 101",
+      "body": "Tips for beginners on starting their own garden.",
+      "date": "2024-07-17",
+      "topic_id": 8,
+      "user_id": 8,
+      "likes": 0
+    },
+    {
+      "id": 9,
+      "title": "DIY Home Decor",
+      "body": "How I transformed my living room on a budget.",
+      "date": "2024-07-18",
+      "topic_id": 9,
+      "user_id": 9,
+      "likes": 0
+    },
+    {
+      "id": 10,
+      "title": "Music Festival Recap",
+      "body": "Highlights from this year's biggest music event.",
+      "date": "2024-07-19",
+      "topic_id": 10,
+      "user_id": 10,
+      "likes": 3
+    },
+    {
+      "id": 11,
+      "title": "Productivity Hacks",
+      "body": "Simple tricks to boost your daily productivity.",
+      "date": "2024-07-20",
+      "topic_id": 11,
+      "user_id": 11,
+      "likes": 0
+    },
+    {
+      "id": 12,
+      "title": "Pet Care Tips",
+      "body": "Essential advice for new pet owners.",
+      "date": "2024-07-21",
+      "topic_id": 12,
+      "user_id": 12,
+      "likes": 0
+    },
+    {
+      "id": 13,
+      "title": "Startup Journey",
+      "body": "The ups and downs of launching my own business.",
+      "date": "2024-07-22",
+      "topic_id": 13,
+      "user_id": 13,
+      "likes": 4
+    },
+    {
+      "id": 14,
+      "title": "Art Exhibition Review",
+      "body": "My thoughts on the latest gallery opening.",
+      "date": "2024-07-23",
+      "topic_id": 14,
+      "user_id": 14,
+      "likes": 0
+    },
+    {
+      "id": 15,
+      "title": "Eco-Friendly Living",
+      "body": "Small changes for a more sustainable lifestyle.",
+      "date": "2024-07-24",
+      "topic_id": 15,
+      "user_id": 15,
+      "likes": 0
+    }
+  ],
+  "topics": [
+    { "id": 1, "name": "General" },
+    { "id": 2, "name": "Technology" },
+    { "id": 3, "name": "Cooking" },
+    { "id": 4, "name": "Travel" },
+    { "id": 5, "name": "Movies" },
+    { "id": 6, "name": "Fitness" },
+    { "id": 7, "name": "Books" },
+    { "id": 8, "name": "Gardening" },
+    { "id": 9, "name": "Home Decor" },
+    { "id": 10, "name": "Music" },
+    { "id": 11, "name": "Productivity" },
+    { "id": 12, "name": "Pets" },
+    { "id": 13, "name": "Business" },
+    { "id": 14, "name": "Art" },
+    { "id": 15, "name": "Environment" }
+  ],
+  "user_likes": [
+    { "id": 1, "user_id": 2, "post_id": 1 },
+    { "id": 2, "user_id": 3, "post_id": 1 },
+    { "id": 3, "user_id": 4, "post_id": 1 },
+    { "id": 4, "user_id": 5, "post_id": 1 },
+    { "id": 5, "user_id": 6, "post_id": 1 },
+    { "id": 6, "user_id": 1, "post_id": 4 },
+    { "id": 7, "user_id": 2, "post_id": 4 },
+    { "id": 8, "user_id": 3, "post_id": 4 },
+    { "id": 9, "user_id": 7, "post_id": 4 },
+    { "id": 10, "user_id": 8, "post_id": 4 },
+    { "id": 11, "user_id": 9, "post_id": 10 },
+    { "id": 12, "user_id": 10, "post_id": 10 },
+    { "id": 13, "user_id": 11, "post_id": 10 },
+    { "id": 14, "user_id": 12, "post_id": 13 },
+    { "id": 15, "user_id": 13, "post_id": 13 },
+    { "id": 16, "user_id": 14, "post_id": 13 },
+    { "id": 17, "user_id": 15, "post_id": 13 },
+    { "id": 18, "user_id": 1, "post_id": 7 },
+    { "id": 19, "user_id": 5, "post_id": 7 },
+    { "id": 20, "user_id": 9, "post_id": 7 }
+  ]
+}
